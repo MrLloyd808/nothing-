@@ -7,7 +7,7 @@ fieldset {
     height: 40%;
     margin-left: 40px;
     border: lightcyan;
-    box-shadow:0 0 4px #000;
+    box-shadow:0 0 4px #444;
 }
 
 img {
@@ -25,7 +25,7 @@ input {
 
 
 button {
-    margin-left: 62px;
+    margin-left: 60px;
     height: 29px;
     background: blue;
     border: lightcyan;
@@ -38,7 +38,7 @@ button {
 }
 
 * {
-    border-radius: 4px;
+    border-radius: 2px;
 }
 
 
