@@ -1,0 +1,43 @@
+fieldset {
+    width: 40%;
+    height: 40%;
+    margin-left: 40px;
+    border: lightcyan;
+    box-shadow:0 0 4px #000;
+}
+
+img {
+    width: 80%;
+    height: 60%;
+    margin-left: 23px;
+}
+
+input {
+    background: aliceblue;
+    border: blue;
+    height: 29px;
+    
+}
+
+
+button {
+    margin-left: 62px;
+    height: 29px;
+    background: blue;
+    border: lightcyan;
+    width: 80px;
+    font: 9px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    
+}
+
+* {
+    border-radius: 4px;
+}
+
+
+.container-sm{
+     align-content: center;
+}
