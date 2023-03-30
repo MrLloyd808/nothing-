@@ -1,11 +1,14 @@
 body { 
     background-color: #fff;
+    text-align: center;
+    align-items: center;
     }
 
 fieldset {
     width: 40%;
     height: 40%;
-    margin-left: 40px;
+    margin: 0 auto?
+
     border: lightcyan;
     box-shadow:0 0 2px #444;
 }
@@ -13,7 +16,7 @@ fieldset {
 img {
     width: 80%;
     height: 60%;
-    margin-left: 23px;
+    margin: 0 auto;
 }
 
 input {
@@ -25,7 +28,7 @@ input {
 
 
 button {
-    margin-left: 60px;
+    margin: 0 auto;
     height: 29px;
     background: blue;
     border: lightcyan;
